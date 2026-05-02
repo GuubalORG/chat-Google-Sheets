@@ -1,3 +1,5 @@
+# how it works
+uses google sheets as backend, google forms as event, powershell as display, no need to set up anything just copy `sended.ps1` and `receiver.ps1` everything else is already configured, but if you want it to go to your own sheet, well, you have to change the URLs, don't worry everything is on the top variables as far as where I know there are no nested plain text URLs.
 # mini Chat app via Google Sheets API <br>
 ## How to send messages
 First of all you only need `AppsScript.js` if you want to create it in your own sheet.
